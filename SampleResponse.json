@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Naomi Osaka withdraws from Melbourne tournament due to abdominal injury",
+            "description": "Naomi Osaka pulled out of her semifinal match in Melbourne due to an abdominal injury, saying that she needs to \"rest and prepare for the Australian Open.\"",
+            "url": "http://espn.go.com/tennis/story/_/id/33016251/naomi-osaka-withdraws-melbourne-tournament-due-abdominal-injury",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0104%2Fr957766_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-01-08T03:20:00Z",
+            "content": "MELBOURNE, Australia -- Defending Australian Open champion Naomi Osaka has withdrawn from her semifinal match at a WTA tournament in Melbourne with an abdominal injury, allowing her opponent Veronika… [+1645 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Benoît Costil (gardien de Bordeaux) : « Je permets à Marseille de remporter ce match »",
+            "description": "Benoît Costil, le gardien de but de Bordeaux, a fait son mea culpa, après son erreur qui a amené le but victorieux de l'OM (0-1) ce vendredi soir.",
+            "url": "https://www.lequipe.fr/Football/Actualites/Benoit-costil-gardien-de-bordeaux-je-permets-a-marseille-de-remporter-ce-match/1309164",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/benoit-costil-le-gardien-de-bordeaux-n-luttiau-l-equipe/1500000001589705/0:0,1995:1330-640-427-75/ae83c.jpg",
+            "publishedAt": "2022-01-07T22:44:00+00:00",
+            "content": "Incertain pour la rencontre face à l'OM ce vendredi soir après avoir été infecté par le Covid, Benoît Costil gardait bien le but de Bordeaux au Matmut-Atlantique pour cette affiche comptant pour la 2… [+1627 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Monaco : Wissam Ben Yedder positif au Covid-19",
+            "description": "Wissam Ben Yedder ne s'est pas entraîné de la semaine à Monaco alors que se profile le match à Nantes en Ligue 1, dimanche (17 heures). Selon nos informations, il a été testé positif au Covid-19.",
+            "url": "https://www.lequipe.fr/Football/Actualites/Monaco-wissam-ben-yedder-positif-au-covid-19/1309153",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/wissam-ben-yedder-ne-participera-pas-au-match-a-nantes-dimanche-p-lahalle-l-equipe/1500000001589667/0:0,1998:1332-640-427-75/14e94.jpg",
+            "publishedAt": "2022-01-07T22:00:00+00:00",
+            "content": "Pour son premier match sur le banc monégasque, dimanche à Nantes en Ligue 1 (17 heures), Philippe Clement va devoir composer avec les cas de Covid-19. Le capitaine de l'ASM, Wissam Ben Yedder, ne s'e… [+685 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+            "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+            "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:44:49Z",
+            "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+        }
+    ]
+}
